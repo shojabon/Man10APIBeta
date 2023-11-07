@@ -48,7 +48,7 @@
 curl -X GET \
   -u <APIキー>: \
   "https://api.man10.red/v1/mshop/shop/list"
-# <APIキーの後には『:』をつけてください
+# <API>キーの後には『:』をつけてください
 ```
 ```curl
 curl -X GET \

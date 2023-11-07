@@ -1,4 +1,18 @@
 # Man10APIBeta
+# APIキー取得
+
+サーバー内にて順番にコマンドを実行してください
+```
+/mwa register
+/mwa api
+```
+
+最後に出た英数字列がAPIキーとなります
+
+この場合は 「15a231a1-1631-42ae-b75e-4c047f713873」がAPIキーになります
+![image](https://github.com/shojabon/Man10APIBeta/assets/25728360/1ce67316-147e-4194-a03b-232719d4d198)
+
+
 # GET /v1/mshop/shop/list
 
 このエンドポイントは、管理が可能なショップのリストを取得するために使用されます。
